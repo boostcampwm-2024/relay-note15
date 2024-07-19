@@ -1,5 +1,6 @@
 # relay-note15
 
+## 💡 [퀘스트 리스트](https://github.com/boostcampwm-2024/relay-note15/blob/main/QUEST.md)
 
 회의실에 처음 모이니 다들 낯빛이 좋지 않았다. 
 
