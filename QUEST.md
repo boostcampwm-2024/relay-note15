@@ -100,6 +100,11 @@
 
 - 퀘스트 : 과제 하면서 생긴 에러 따로 정리해보기
 - 선정 기준 : 미션을 수행하면서 구현에만 집중하고 기록을 많이 못한 것 같아서 선정했습니다.
+- 수행 결과 : 미션을 수행하면서 에러 그리고 학습 내용을 기록했습니다.
+  - 1일 차: https://scalloped-tuesday-b26.notion.site/Day06_-6a3862893aae4259918427439e150c6d
+  - 2일 차: https://scalloped-tuesday-b26.notion.site/Day07_-61f8839c165747f095963520c00b06e1
+  - 3일 차: https://scalloped-tuesday-b26.notion.site/Day08_-6f08992110e44345a5bb26f1901e31f0
+  - 4일 차: 페어 프로그래밍을 하느라 정리할 시간이 부족했습니다..ㅠㅠ
 
 ### J153-안연아
 
